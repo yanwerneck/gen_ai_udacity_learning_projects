@@ -37,3 +37,9 @@ Thumbs.db
 *.pickle
 **/data/
 **/models/
+
+# claude code
+**/.claude/
+
+# udacity class examples
+**/udacity_examples/
